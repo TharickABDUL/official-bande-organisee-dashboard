@@ -1,0 +1,27 @@
+{
+  "name": "jobboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.12.2",
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "core-js": "^3.6.5",
+    "cors": "^2.8.5",
+    "express-session": "^1.17.1",
+    "nuxt": "^2.14.5"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.14.6",
+    "@nuxtjs/color-mode": "^1.1.1",
+    "@nuxtjs/svg": "^0.1.12",
+    "@nuxtjs/tailwindcss": "^3.0.2"
+  }
+}

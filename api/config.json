@@ -1,0 +1,20 @@
+{
+  "rootApiOld": "/api/v1/",
+  "rootAPI": "/api/v2/",
+  "port": 3000,
+  "db": {
+    "host": "IP-mysql.services.clever-cloud.com",
+    "database": "myDataBaseName",
+    "user": "myUserName",
+    "password": "myPasswordName"
+  },
+  "errors": {
+    "wrongID": "mauvais ID",
+    "wrongMaxValue": "mauvaise valeur max",
+    "nameAlreadyTaken": "nom dèja prit,",
+    "noNameValue": "pas de valeur de nom",
+    "sameName": "meme nom",
+    "sameMessage": "Vous avez déja postuler pour cette offre",
+    "noMessageValue": "Pas de valeur pour ce message"
+  }
+}
