@@ -42,8 +42,7 @@ and even test it from there.
 
 ## Routes of the API
 
-
-<a><img src="https://i.imgur.com/rj7G7eH.png" title="c++ app made in qt" alt="docker container SQL"></a>
+![Alt text](route.svg "routes api")
 
 ---
 
