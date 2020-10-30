@@ -46,7 +46,7 @@ mysql.createConnection({
       let card = await Card.getByID(req.params.id)
       res.json(checkAndChange(card))
     })
-  //======================= CLASSE APPLY-CARD=========================
+  //=======================CLASSE APPLY-CARD=========================
   applyCardRouter.route('/')
 
     // Ajoute un membre avec son nom
