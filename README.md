@@ -7,7 +7,7 @@
 # Official bande organisée dashboard
 <p align="center"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/06b2f979b4fbab8f1822cab69783700f0afa1f90/68747470733a2f2f6e7578746a732e6f72672f6d6574615f3430302e706e67"><img align="center" src="https://camo.githubusercontent.com/06b2f979b4fbab8f1822cab69783700f0afa1f90/68747470733a2f2f6e7578746a732e6f72672f6d6574615f3430302e706e67" data-canonical-src="https://nuxtjs.org/meta_400.png" style="max-width:100%;"></a></p>
 
-## This repo is a project created of job b0ard create with Tharick during the 3eme year at Ep1tech. https://github.com/TharickABDUL
+## This repo is a project created of job b0ard create with Tharick during the 3rd year at Epitech. https://github.com/TharickABDUL
 
 
 
