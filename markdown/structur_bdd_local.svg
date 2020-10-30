@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="308px" preserveAspectRatio="none" style="width:519px;height:308px;" version="1.1" viewBox="0 0 519 308" width="519px" zoomAndPan="magnify"><defs><filter height="300%" id="fpcdwysa49f35" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[8f5e5140b7ab31da06632d768813b78c]
+cluster Clever Cloud MySQL--><path d="M339,139 C339,129 423,129 423,129 C423,129 507,129 507,139 L507,286 C507,296 423,296 423,296 C423,296 339,296 339,286 L339,139 " fill="#FFFFFF" filter="url(#fpcdwysa49f35)" style="stroke: #000000; stroke-width: 1.5;"/><path d="M339,139 C339,149 423,149 423,149 C423,149 507,149 507,139 " fill="none" style="stroke: #000000; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="144" x="351" y="165.5332">Clever Cloud MySQL</text><!--MD5=[3cca84f111bad6deea36f310946c30e0]
+cluster Node.js--><polygon fill="#FFFFFF" filter="url(#fpcdwysa49f35)" points="28,34,38,24,315,24,315,266,305,276,28,276,28,34" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="305" x2="314" y1="34" y2="25"/><line style="stroke: #000000; stroke-width: 1.5;" x1="28" x2="305" y1="34" y2="34"/><line style="stroke: #000000; stroke-width: 1.5;" x1="305" x2="305" y1="34" y2="276"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="53" x="141" y="51.5332">Node.js</text><!--MD5=[c09c4bba6d2f5be16fa0de24c3b1928b]
+entity advertisements \ncompanies \ninformationJob \nPeople--><rect fill="#FEFECE" filter="url(#fpcdwysa49f35)" height="100.4375" style="stroke: #A80036; stroke-width: 1.5;" width="136" x="355" y="180"/><rect fill="#FEFECE" height="10" style="stroke: #A80036; stroke-width: 1.5;" width="15" x="471" y="185"/><rect fill="#FEFECE" height="2" style="stroke: #A80036; stroke-width: 1.5;" width="4" x="469" y="187"/><rect fill="#FEFECE" height="2" style="stroke: #A80036; stroke-width: 1.5;" width="4" x="469" y="191"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="96" x="370" y="214.5332">advertisements</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="68" x="370" y="232.1426">companies</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="92" x="370" y="249.752">informationJob</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="44" x="370" y="267.3613">People</text><!--MD5=[972dfe21fb2df9d6c219ecc220e9e26e]
+entity HTML--><ellipse cx="53" cy="89" fill="#FEFECE" filter="url(#fpcdwysa49f35)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="94" x="6" y="120.5332">Html/Javascript</text><!--MD5=[bd5f618b12816bd4b75416c1e6e531a6]
+entity REST--><ellipse cx="204" cy="230" fill="#FEFECE" filter="url(#fpcdwysa49f35)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="66" x="171" y="261.5332">Http/REST</text><!--MD5=[7eeebffe8f5bd87c90d14dbc297525aa]
+entity WebClient--><rect fill="#FEFECE" filter="url(#fpcdwysa49f35)" height="47.6094" style="stroke: #A80036; stroke-width: 1.5;" width="105" x="97.5" y="65"/><rect fill="#FEFECE" height="10" style="stroke: #A80036; stroke-width: 1.5;" width="15" x="182.5" y="70"/><rect fill="#FEFECE" height="2" style="stroke: #A80036; stroke-width: 1.5;" width="4" x="180.5" y="72"/><rect fill="#FEFECE" height="2" style="stroke: #A80036; stroke-width: 1.5;" width="4" x="180.5" y="76"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65" x="112.5" y="99.5332">WebClient</text><!--MD5=[83383ce199d7044377492012fda7a6a9]
+entity API --><rect fill="#FEFECE" filter="url(#fpcdwysa49f35)" height="47.6094" style="stroke: #A80036; stroke-width: 1.5;" width="61" x="237.5" y="65"/><rect fill="#FEFECE" height="10" style="stroke: #A80036; stroke-width: 1.5;" width="15" x="278.5" y="70"/><rect fill="#FEFECE" height="2" style="stroke: #A80036; stroke-width: 1.5;" width="4" x="276.5" y="72"/><rect fill="#FEFECE" height="2" style="stroke: #A80036; stroke-width: 1.5;" width="4" x="276.5" y="76"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="21" x="252.5" y="99.5332">API</text><!--MD5=[8ad06995d009bbe5f93a782c6656ab74]
+link HTML to WebClient--><path d="M62.0938,89 C73.8833,89 85.6728,89 97.4623,89 " fill="none" id="HTML-WebClient" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[01131f0fdd0488eff4a37064bd0a5dc9]
+link API  to REST--><path d="M257.288,113.265 C242.698,144.952 217.304,200.106 207.765,220.8231 " fill="none" id="API -REST" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[9a2dc85faab2c96f1cf57f1b4165c47f]
+link WebClient to REST--><path d="M159.038,113.265 C170.483,142.724 189.807,192.466 198.935,215.9623 " fill="none" id="WebClient-&gt;REST" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="200.823,220.8231,201.293,210.9855,199.0127,216.1623,193.8358,213.882,200.823,220.8231" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[ac03671bfa4a55e344596beee96b435d]
+link API  to advertisements \ncompanies \ninformationJob \nPeople--><path d="M298.978,109.142 C304.455,112.887 310.001,116.922 315,121 C335.516,137.734 356.456,157.844 374.37,176.149 " fill="none" id="API -&gt;advertisements \ncompanies \ninformationJob \nPeople" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="377.912,179.785,374.4956,170.5477,374.4225,176.2041,368.7661,176.1309,377.912,179.785" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[67b91b243b1c81bf7ccfbabec895f914]
+@startuml
+
+skinparam componentStyle uml2
+
+database "Clever Cloud MySQL" {
+    [advertisements \ncompanies \ninformationJob \nPeople]
+}
+
+node "Node.js" {
+
+interface "Html/Javascript" as HTML
+interface "Http/REST" as REST
+
+[WebClient] -left- HTML
+[API ] -down- REST
+
+[WebClient] - -> REST
+[API ] - -> [advertisements \ncompanies \ninformationJob \nPeople]
+}
+
+
+@enduml
+
+PlantUML version 1.2020.09(Sun May 10 12:51:06 CEST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.8+10-b944.34
+Operating System: Windows 10
+Default Encoding: Cp1252
+Language: fr
+Country: FR
+--></g></svg>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="849px" preserveAspectRatio="none" style="width:764px;height:849px;" version="1.1" viewBox="0 0 764 849" width="764px" zoomAndPan="magnify"><defs><filter height="300%" id="f1e6t1iiagndn6" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="708.0547" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="65.5" y="119.9609"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="30.3516" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="227.5" y="119.9609"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="30.3516" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="227.5" y="561.2344"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="30.3516" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="227.5" y="637.7734"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="60.3516" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="227.5" y="751.6641"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="117.4063" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="395.5" y="150.3125"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="297.1328" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="395.5" y="530.8828"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="106.8906" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="400.5" y="561.2344"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="30.3516" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="405.5" y="637.7734"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="60.3516" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="400.5" y="721.3125"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="190.2852" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="550.5" y="193.8398"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="306.8359" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="550.5" y="414.4766"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="151.7578" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="712.5" y="323.4219"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="537.2969" style="stroke: #000000; stroke-width: 2.0;" width="739.5" x="13" y="282.7188"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="185.9453" style="stroke: #000000; stroke-width: 2.0;" width="572.5" x="23" y="490.1797"/><rect fill="#FFFFFF" height="76.5391" style="stroke: none; stroke-width: 1.0;" width="572.5" x="23" y="599.5859"/><rect fill="#FFFFFF" height="136.8906" style="stroke: none; stroke-width: 1.0;" width="739.5" x="13" y="683.125"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="70" x2="70" y1="87.6094" y2="837.0156"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="232" x2="232" y1="87.6094" y2="837.0156"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="400" x2="400" y1="87.6094" y2="837.0156"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="555.5" x2="555.5" y1="87.6094" y2="837.0156"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="717.5" x2="717.5" y1="87.6094" y2="837.0156"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="69" x="33" y="84.5332">Utilisateurs</text><ellipse cx="70.5" cy="13" fill="#FEFECE" filter="url(#f1e6t1iiagndn6)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M70.5,21 L70.5,48 M57.5,29 L83.5,29 M70.5,48 L57.5,63 M70.5,48 L83.5,63 " fill="none" filter="url(#f1e6t1iiagndn6)" style="stroke: #A80036; stroke-width: 2.0;"/><rect fill="#FEFECE" filter="url(#f1e6t1iiagndn6)" height="31.6094" style="stroke: #A80036; stroke-width: 1.5;" width="69" x="196" y="51"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="55" x="203" y="72.5332">Interface</text><rect fill="#FEFECE" filter="url(#f1e6t1iiagndn6)" height="31.6094" style="stroke: #A80036; stroke-width: 1.5;" width="59" x="369" y="51"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="45" x="376" y="72.5332">file.vue</text><rect fill="#FEFECE" filter="url(#f1e6t1iiagndn6)" height="31.6094" style="stroke: #A80036; stroke-width: 1.5;" width="56" x="525.5" y="51"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="42" x="532.5" y="72.5332">card.js</text><rect fill="#FEFECE" filter="url(#f1e6t1iiagndn6)" height="31.6094" style="stroke: #A80036; stroke-width: 1.5;" width="46" x="692.5" y="51"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="32" x="699.5" y="72.5332">axios</text><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="708.0547" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="65.5" y="119.9609"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="30.3516" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="227.5" y="119.9609"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="30.3516" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="227.5" y="561.2344"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="30.3516" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="227.5" y="637.7734"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="60.3516" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="227.5" y="751.6641"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="117.4063" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="395.5" y="150.3125"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="297.1328" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="395.5" y="530.8828"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="106.8906" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="400.5" y="561.2344"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="30.3516" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="405.5" y="637.7734"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="60.3516" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="400.5" y="721.3125"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="190.2852" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="550.5" y="193.8398"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="306.8359" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="550.5" y="414.4766"/><rect fill="#FFFFFF" filter="url(#f1e6t1iiagndn6)" height="151.7578" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="712.5" y="323.4219"/><polygon fill="#A80036" points="215.5,115.9609,225.5,119.9609,215.5,123.9609,219.5,119.9609" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="75.5" x2="221.5" y1="119.9609" y2="119.9609"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="138" x="82.5" y="115.1045">Chargement de la  page</text><polygon fill="#A80036" points="383.5,146.3125,393.5,150.3125,383.5,154.3125,387.5,150.3125" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="232.5" x2="389.5" y1="150.3125" y2="150.3125"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="51" x="288.5" y="145.4561">created()</text><polygon fill="#A80036" points="538.5,189.8398,548.5,193.8398,538.5,197.8398,542.5,193.8398" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="405.5" x2="544.5" y1="193.8398" y2="193.8398"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="57" x="449.5" y="188.9834">.getCard()</text><path d="M565,163.3125 L565,205.3125 L735,205.3125 L735,173.3125 L725,163.3125 L565,163.3125 " fill="#FBFB77" filter="url(#f1e6t1iiagndn6)" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M725,163.3125 L725,173.3125 L735,173.3125 L725,163.3125 " fill="#FBFB77" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="141" x="571" y="181.8076">Ici, axios est une classe</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="113" x="571" y="198.1592">appelé dans card.js</text><polygon fill="#A80036" points="538.5,233.3672,548.5,237.3672,538.5,241.3672,542.5,237.3672" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="405.5" x2="544.5" y1="237.3672" y2="237.3672"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="88" x="434" y="232.5107">.getUtilisateur()</text><polygon fill="#A80036" points="538.5,263.7188,548.5,267.7188,538.5,271.7188,542.5,267.7188" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="400.5" x2="544.5" y1="267.7188" y2="267.7188"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="89" x="431" y="262.8623">.getEntreprise()</text><path d="M13,282.7188 L86,282.7188 L86,290.7188 L76,300.7188 L13,300.7188 L13,282.7188 " fill="#EEEEEE" style="stroke: #000000; stroke-width: 1.0;"/><rect fill="none" height="537.2969" style="stroke: #000000; stroke-width: 2.0;" width="739.5" x="13" y="282.7188"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="28" x="28" y="297.2139">loop</text><polygon fill="#A80036" points="700.5,319.4219,710.5,323.4219,700.5,327.4219,704.5,323.4219" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="560.5" x2="706.5" y1="323.4219" y2="323.4219"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="44" x="614.5" y="318.5654">.get(url)</text><polygon fill="#A80036" points="700.5,349.7734,710.5,353.7734,700.5,357.7734,704.5,353.7734" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="560.5" x2="706.5" y1="353.7734" y2="353.7734"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="102" x="585.5" y="348.917">.get(urlUtilisateur)</text><polygon fill="#A80036" points="700.5,380.125,710.5,384.125,700.5,388.125,704.5,384.125" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="555.5" x2="706.5" y1="384.125" y2="384.125"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="103" x="582.5" y="379.2686">.get(urlEntreprise)</text><polygon fill="#A80036" points="571.5,410.4766,561.5,414.4766,571.5,418.4766,567.5,414.4766" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="565.5" x2="711.5" y1="414.4766" y2="414.4766"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="115" x="579" y="409.6201">fullCards.data.result</text><polygon fill="#A80036" points="571.5,440.8281,561.5,444.8281,571.5,448.8281,567.5,444.8281" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="565.5" x2="711.5" y1="444.8281" y2="444.8281"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="128" x="572.5" y="439.9717">utilisateurs.data.result</text><polygon fill="#A80036" points="571.5,471.1797,561.5,475.1797,571.5,479.1797,567.5,475.1797" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="565.5" x2="716.5" y1="475.1797" y2="475.1797"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="122" x="578" y="470.3232">entreprise.data.result</text><path d="M23,490.1797 L96,490.1797 L96,498.1797 L86,508.1797 L23,508.1797 L23,490.1797 " fill="#EEEEEE" style="stroke: #000000; stroke-width: 1.0;"/><rect fill="none" height="185.9453" style="stroke: #000000; stroke-width: 2.0;" width="572.5" x="23" y="490.1797"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="28" x="38" y="504.6748">loop</text><polygon fill="#A80036" points="416.5,526.8828,406.5,530.8828,416.5,534.8828,412.5,530.8828" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="410.5" x2="549.5" y1="530.8828" y2="530.8828"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="126" x="415" y="526.0264">Retourne les données</text><polygon fill="#A80036" points="248.5,557.2344,238.5,561.2344,248.5,565.2344,244.5,561.2344" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="242.5" x2="399.5" y1="561.2344" y2="561.2344"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="126" x="256" y="556.3779">Retourne les données</text><polygon fill="#A80036" points="86.5,587.5859,76.5,591.5859,86.5,595.5859,82.5,591.5859" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="80.5" x2="231.5" y1="591.5859" y2="591.5859"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="113" x="97.5" y="586.7295">Affiche les données</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="23" x2="595.5" y1="600.5859" y2="600.5859"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="158" x="28" y="612.0049">[value.data.status == "error"]</text><polygon fill="#A80036" points="248.5,633.7734,238.5,637.7734,248.5,641.7734,244.5,637.7734" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="242.5" x2="404.5" y1="637.7734" y2="637.7734"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="126" x="258.5" y="632.917">Retourne les données</text><polygon fill="#A80036" points="86.5,664.125,76.5,668.125,86.5,672.125,82.5,668.125" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="80.5" x2="231.5" y1="668.125" y2="668.125"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="113" x="97.5" y="663.2686">Affiche les données</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="13" x2="752.5" y1="684.125" y2="684.125"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="34" x="18" y="695.5439">[ELSE]</text><polygon fill="#A80036" points="421.5,717.3125,411.5,721.3125,421.5,725.3125,417.5,721.3125" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="415.5" x2="554.5" y1="721.3125" y2="721.3125"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="55" x="455.5" y="716.4561">reject(err)</text><polygon fill="#A80036" points="248.5,747.6641,238.5,751.6641,248.5,755.6641,244.5,751.6641" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="242.5" x2="399.5" y1="751.6641" y2="751.6641"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="139" x="249.5" y="746.8076">this.error = err.message</text><polygon fill="#A80036" points="86.5,808.0156,76.5,812.0156,86.5,816.0156,82.5,812.0156" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="80.5" x2="231.5" y1="812.0156" y2="812.0156"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="81" x="113.5" y="807.1592">Affiche l'érreur</text><!--MD5=[9e6b4174df517ffeb4bbdf6d5434d16f]
+@startuml
+
+skinparam sequenceMessageAlign center
+hide footbox
+actor Utilisateurs
+Utilisateurs -> Interface : Chargement de la  page
+activate Utilisateurs
+activate Interface
+"file.vue" <- Interface : created()
+deactivate Interface
+ activate "file.vue"
+"file.vue" -> "card.js" : .getCard()
+activate "card.js"
+note right :Ici, axios est une classe  \nappelé dans card.js
+
+"file.vue" -> "card.js" : .getUtilisateur()
+"file.vue" -> "card.js" : .getEntreprise()
+deactivate "file.vue"
+
+Loop
+"card.js" -> axios : .get(url)
+activate "axios"
+
+"card.js" -> axios : .get(urlUtilisateur)
+"card.js" -> axios : .get(urlEntreprise)
+deactivate "card.js"
+
+
+axios - -> "card.js" : fullCards.data.result
+activate "card.js"
+axios - -> "card.js" : utilisateurs.data.result
+axios - -> "card.js" : entreprise.data.result
+
+deactivate "axios"
+Loop
+
+"card.js" - -> file.vue : Retourne les données
+
+ activate "file.vue"
+
+"file.vue" - -> Interface : Retourne les données
+ activate "Interface"
+
+ activate "file.vue"
+Interface - -> Utilisateurs : Affiche les données
+deactivate "Interface"
+ELSE value.data.status == "error"
+
+"file.vue" - -> Interface : Retourne les données
+ activate "Interface"
+
+ activate "file.vue"
+Interface - -> Utilisateurs : Affiche les données
+deactivate "Interface"
+
+
+
+deactivate "file.vue"
+deactivate "file.vue"
+End
+
+
+
+activate "card.js"
+
+
+ELSE  ELSE
+activate Interface
+"file.vue" <- - "card.js" : reject(err)
+
+deactivate "card.js"
+deactivate "card.js"
+ activate "file.vue"
+
+deactivate Interface
+
+"file.vue" - -> Interface : this.error = err.message
+activate Interface
+deactivate "file.vue"
+Interface - -> Utilisateurs : Affiche l'érreur
+deactivate Interface
+End
+
+
+@enduml
+
+PlantUML version 1.2020.09(Sun May 10 12:51:06 CEST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.8+10-b944.34
+Operating System: Windows 10
+Default Encoding: Cp1252
+Language: fr
+Country: FR
+--></g></svg>
