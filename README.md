@@ -10,9 +10,9 @@
 
 ![Alt Text](https://i.imgur.com/JAW0ZuF.gif)
 
-### This repository is a school project of a job b0ard create with Tharick during the 3rd year at Epitech. https://github.com/TharickABDUL
+### This repository is a school project.This job board was done with Tharick during the 3rd year at Epitech. https://github.com/TharickABDUL
 
-#### The name "Official bande orgnisée dashboard" is a reference to the clip made by jul "bande organisée" released in the same period. 
+#### The name "Official bande orgnisée dashboard" is a reference to the clip made by jul "Bande Organisée" released in the same period. 
 
 
 ### Built With
