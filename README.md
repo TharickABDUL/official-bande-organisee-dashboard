@@ -10,7 +10,7 @@
 
 ![Alt Text](https://i.imgur.com/JAW0ZuF.gif)
 
-### This repository is a school project.This job board was done with Tharick during the 3rd year at Epitech. https://github.com/TharickABDUL
+### This repository is a school project.This job board was done with Albert during the 3rd year at Epitech. https://github.com/AlbertLanne
 
 #### The name "Official bande orgnisée dashboard" is a reference to the clip "Bande Organisée" which is the first opus of the "13 Organisé" project, imagined by JUL, released in the same period. 
 
